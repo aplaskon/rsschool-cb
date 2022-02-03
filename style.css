@@ -1,0 +1,46 @@
+html {
+    background-color: #AAAAAA;
+    line-height: 1.6;
+  }
+  
+  body {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1024px;
+    min-width: 480px;
+    font-size: 18px;
+  }
+  
+  aside {
+    width: 35%;
+    min-width: 240px;
+    padding: 40px;
+    background-color: #666b4c;
+    color: #fff;
+  }
+  
+  aside h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px auto;
+    font-size: 32px;
+  }
+  
+  main {
+    width: 65%;
+    min-width: 240px;
+    padding: 30px 40px 40px;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  img {
+    margin-bottom: 20px;
+    width: 100%;
+    min-width: 160px;
+    object-fit: cover;
+  }
+  
+  p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
